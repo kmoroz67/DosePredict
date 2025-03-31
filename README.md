@@ -13,4 +13,4 @@ This neural model predicts treatment dosage effectiveness for our patients.
 
 **Git clone this repo to your server/local**
   $ git clone git@github.com:kmoroz67/DosePredict.git
-
+	$ tar -xvzf sratoolkit.2.10.9-centos_linux64-cloud.tar.gz -C ./ncbi
